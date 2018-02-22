@@ -1,5 +1,3 @@
-//  Zack Silverman 913618592
-//
 //  Closer.h
 //  EmergencyLanding
 //
