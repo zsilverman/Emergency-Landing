@@ -1,6 +1,4 @@
-//  Zack Silverman 913618592
-//
-// mayday.cpp
+//mayday.cpp
 //
 // use: mayday latitude longitude min_length
 //
