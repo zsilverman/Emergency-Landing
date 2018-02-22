@@ -1,6 +1,4 @@
-//  Zack Silverman 913618592
-//
-//  Facility.cpp
+//Facility.cpp
 //  EmergencyLanding
 //
 // Implementation of Facility object which has a site number, type, code, name, latitute, and longitude
